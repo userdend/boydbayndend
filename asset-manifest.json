@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boydbayndend/static/css/main.c542f2f6.css",
+    "main.js": "/boydbayndend/static/js/main.a57245d1.js",
+    "static/media/campusScheduleFinder2.jpg": "/boydbayndend/static/media/campusScheduleFinder2.cd5f254a96e185db405d.jpg",
+    "static/media/campusScheduleFinder.jpg": "/boydbayndend/static/media/campusScheduleFinder.f8760ebcf62ea430ffab.jpg",
+    "static/media/socialapp.jpg": "/boydbayndend/static/media/socialapp.3d23114d022cbd204a90.jpg",
+    "index.html": "/boydbayndend/index.html",
+    "main.c542f2f6.css.map": "/boydbayndend/static/css/main.c542f2f6.css.map",
+    "main.a57245d1.js.map": "/boydbayndend/static/js/main.a57245d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c542f2f6.css",
+    "static/js/main.a57245d1.js"
+  ]
+}
